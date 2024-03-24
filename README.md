@@ -1,9 +1,9 @@
 # Hi!
 
-Perkenalkan nama saya **M Kasim Azhari Hasibuan**.  
-Saya seorang mahasiswa Teknologi Informasi di Universitas Sumatera Utara.  
-Saat ini saya sedang belajar dan berlatih untuk menjadi seorang **Software Engineer**.  
-Ayo saling connect di [LinkedIn](https://www.linkedin.com/in/kasim-azhari-5b9131286/). 
+Hi, I'm **M Kasim Azhari Hasibuan**.  
+A student of Information Technology in Universitas Sumatera Utara.  
+I'm willing to be a  **Software Engineer**. And I'm interested in Artificial Intelligence and Machine Learning.  
+Get in touch with me in [LinkedIn](https://www.linkedin.com/in/kasim-azhari-5b9131286/). 
 
 <p align="left">
 <a href="https://github.com/azharihsb-27">
