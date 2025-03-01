@@ -2,7 +2,7 @@
 
 Hi, I'm **M Kasim Azhari Hasibuan**.  
 A student of Information Technology in Universitas Sumatera Utara.  
-A Front End Web Developer Ethusiast and I'm willing to be a  **Software Engineer**.  
+A Front End Web Developer and Machine Learning Ethusiast. I'm willing to be a  **Software Engineer** or **AI Engineer**.  
 Get in touch with me in [LinkedIn](https://www.linkedin.com/in/kasim-azhari-5b9131286/). 
 
 <p align="left">
